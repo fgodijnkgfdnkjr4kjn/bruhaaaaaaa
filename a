@@ -42,7 +42,7 @@
 .theme-light {
   --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
   
-  --dplus-accent-color-hue: 220;
+  --dplus-accent-color-hue: 0;
   --dplus-accent-color-saturation: 60%;
   --dplus-accent-color-lightness: 31%;
   
