@@ -21,7 +21,7 @@
   --dplus-backdrop: url(https://www.wallpaperup.com/uploads/wallpapers/2013/12/07/186915/8b6cf9fc1ff0b940de27d34ebf507f47-1000.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
+  --dplus-accent-color-hue: 0;
   --dplus-accent-color-saturation: 60%;
   --dplus-accent-color-lightness: 31%;
 
